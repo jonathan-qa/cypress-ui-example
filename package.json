@@ -1,0 +1,28 @@
+{
+  "name": "cypress-ui-example",
+  "version": "1.0.0",
+  "description": "Cypress UI Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-qa/cypress-ui-example.git"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "ui-tests"
+  ],
+  "author": "Jonathan Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-qa/cypress-ui-example/issues"
+  },
+  "homepage": "https://github.com/jonathan-qa/cypress-ui-example#readme",
+  "devDependencies": {
+    "cypress": "^8.2.0",
+    "eslint-plugin-cypress": "^2.11.3"
+  }
+}
