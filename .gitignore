@@ -13,9 +13,6 @@ cypress/videos/*
 
 ### Node ###
 
-# Package Lock
-package-lock.json
-
 # Logs
 logs
 *.log
